@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\griba\source\repos\game\game\main.cpp(27,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  game.vcxproj -> C:\Users\griba\source\repos\game\x64\Debug\game.exe
